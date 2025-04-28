@@ -76,19 +76,4 @@ Each section under `homework_projects` explores essential Python topics:
 - **Streamlit** (for interactive web apps)
 - **Git & GitHub** (for version control and collaboration)
 
----
-
-## 📬 Connect With Me
-Have questions or feedback? Feel free to reach out! 🚀
-
-- **LinkedIn**: [Linkedin](https://www.linkedin.com/in/muzaffar-ahmed-325ba6346/)
-- **Twitter**: [Twitter](https://x.com/_Muzaffar_Ahmed)
-- **GitHub**: [Github](https://github.com/muzaffar401)
-- **WhatsApp**: [Whatsapp](https://wa.me/+923353958045)
-
----
-
-### ✨ Created by **Muzaffar Ahmed**
-
-Happy Coding! 🎯
 
